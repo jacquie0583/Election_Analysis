@@ -41,7 +41,7 @@ A Colorado Board of Elections employee has given our company the following tasks
                 Winner: Diana DeGette
                 Winning Vote Count: 272,892
                 Winning Percentage: 73.8%
-                https://github.com/jacquie0583/Election_Analysis/blob/main/analysis/election_results.txt.txt
+![Election_Results]https://github.com/jacquie0583/Election_Analysis/blob/main/analysis/election_results.txt.txt
 
 
 ##  Election-Audit Summary
@@ -55,7 +55,7 @@ Election-Audit Summary: In a summary statement, provide a business proposal to t
         The candidate results were:
         
             Winner: Diana DeGette, who received 73.8% of the votes and  272,892 number of votes.
-            https://github.com/jacquie0583/Election_Analysis/blob/main/Python%20results.png
+![Election_Results]https://github.com/jacquie0583/Election_Analysis/blob/main/Python%20results.png
 
 ##Challenge Summary
         The script allowed for analysis and reporting of the results of a county districts and their district candidates.  This code was designed by CSV data files, variables, arrays, dictionaries and lists to itenerate through the data to arrive at the results above.
