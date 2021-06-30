@@ -41,7 +41,7 @@ A Colorado Board of Elections employee has given our company the following tasks
                 Winner: Diana DeGette
                 Winning Vote Count: 272,892
                 Winning Percentage: 73.8%
-![Election_Results](https://github.com/jacquie0583/Election_Analysis/blob/main/analysis/election_results.txt.txt)
+![Election_Results1](https://github.com/jacquie0583/Election_Analysis/blob/main/analysis/election_results.txt.txt)
 
 
 ##  Election-Audit Summary
